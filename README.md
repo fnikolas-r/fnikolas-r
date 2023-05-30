@@ -3,6 +3,7 @@
 Hi, My Name is Fernando Nikolas.
 I do Content and App Develompent. I like Android Develompent, Web Development, and Data Analytics
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fnikolas-r&label=Profile%20views&color=0e75b6&style=flat" alt="hypercodingstress" /> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fnikolas-r/) 
