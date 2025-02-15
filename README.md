@@ -9,9 +9,6 @@ I do Content and App Develompent. I like Android Develompent, Web Development, a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fnikolas-r/) 
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fnikolas-r&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fnikolas-r&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 
 
 
